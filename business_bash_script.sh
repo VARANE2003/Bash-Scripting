@@ -1,10 +1,3 @@
-#####################################
-# 1093316 Charalampos Anastasiou
-# 1093320 Konstantinos Anastasopoulos
-# 1096314 Filippos Merkourios Dalas
-#####################################
-
-
 #!/bin/bash
 
 

@@ -5,7 +5,7 @@ This project consists of 2 sub-projects:
 
 Project 1:          
 - <b>Implementation of a cmd interface that enables the user to read efficiently and make changes on a CSV file</b> 
-- <b>Computation of an integral using code</b>  
+- <b>Computation of an integral using semaphores</b>  
 
 
 

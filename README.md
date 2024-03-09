@@ -1,7 +1,8 @@
 # Bash-Scripting
 
-This project has 2 parts:
+This project consists of 2 sub-projects:
 
-PART A: Implementation of a cmd interface that enables the user to read efficiently and make changes on a CSV file
+Project 1: Implementation of a cmd interface that enables the user to read efficiently and make changes on a CSV file,
+           Computation of an integral using code
 
-PART B: Implementation of Scheduling Algorithms (ROUND-ROBBIN , FCFS) for processes requesting (or not) I/O
+Project 2: Implementation of Scheduling Algorithms (ROUND-ROBBIN , FCFS) for processes requesting (or not) I/O

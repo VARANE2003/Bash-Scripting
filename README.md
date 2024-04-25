@@ -1,4 +1,4 @@
-# Bash-Scripting
+# OS-PROJECT-2023-24
 
 This project consists of 2 sub-projects:
 

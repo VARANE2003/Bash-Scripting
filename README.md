@@ -1,4 +1,4 @@
-# OS-PROJECT-2023-24
+# Operating Systems-Project-2023-24
 
 This project consists of 2 sub-projects:
 
